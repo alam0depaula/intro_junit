@@ -1,4 +1,8 @@
+/**
+ * Solucao para o exercicio numero 2
+ * 
 package jokenpo;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
@@ -10,7 +14,7 @@ import org.junit.jupiter.api.Test;
 public class JokenpoTest {
 	
 	public void inicializa() {
-		jokenpo = new Main();
+		jokenpo = new Jokenpo();
 	}
 	
 	@Test
@@ -26,3 +30,5 @@ public class JokenpoTest {
 	}
 
 }
+
+*/
